@@ -1,1 +1,2 @@
 # sports-team-generator
+The Sports Team Generator was made by [Creative Cache](http://creativecache.us/) as a tool for designers to practice creating logos and designs for sports teams. Each result comes with a suggested sport for the team. The sport and city options can be individually locked by clicking them. Locations are the top 100 U.S. cities by population and all 50 states. Team names are taken from NFL, MLB, NBA &amp; NHL teams. Enjoy!
